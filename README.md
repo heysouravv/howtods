@@ -1,4 +1,4 @@
-<h2>&emsp;&emsp;&emsp;&emsp; DATA SCIENCE ROADMAP :pirate_flag: 2022 </h2>
+<h2>DATA SCIENCE ROADMAP 2022</h2>
 
 ### Data Science Roadmap for anyone interested in how to break into the field!
 
